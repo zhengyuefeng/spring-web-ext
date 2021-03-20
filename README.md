@@ -1,2 +1,2 @@
 # spring-web-ext
-Extension for Spring Web
+An Extension for Spring Web
